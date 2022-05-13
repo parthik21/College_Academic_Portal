@@ -1,0 +1,35 @@
+- hosts: all
+  become: true
+  tasks:
+    - name: Install aptitude
+      apt:
+        name: aptitude
+        state: latest
+        update_cache: true
+
+    - name: Install required system packages
+      apt:
+        pkg:
+          - apt-transport-https
+          - ca-certificates
+          - curl
+          - software-properties-common
+          - python3-pip
+          - virtualenv
+          - python3-setuptools
+        state: latest
+        update_cache: true
+
+    - name: Pull classroom docker image
+      community.docker.docker_image:
+        name: anubhavmohanty/college_academic_portal
+        source: pull
+
+    - name: Launch the classroom container
+      docker_container:
+        name: college_academic_portal
+        image: anubhavmohanty/college_academic_portal
+        state: started
+        ports:
+        -  6969:8000
+

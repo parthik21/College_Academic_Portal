@@ -1,0 +1,199 @@
+[2022-05-12 14:39:29] INFO [django.utils.autoreload:643] Watching for file changes with StatReloader
+[2022-05-12 14:39:29] INFO [django.utils.autoreload:643] Watching for file changes with StatReloader
+[2022-05-12 14:39:29] INFO [classroom.views:133] StudentDetailView accessed
+[2022-05-12 14:39:29] INFO [classroom.views:140] TeacherDetailView accessed
+[2022-05-12 14:39:47] INFO [django.server:179] "GET / HTTP/1.1" 200 7055
+[2022-05-12 14:39:47] INFO [django.server:179] "GET / HTTP/1.1" 200 7055
+[2022-05-12 14:39:47] INFO [django.server:179] "GET /static/css/base.css HTTP/1.1" 200 8416
+[2022-05-12 14:39:47] INFO [django.server:179] "GET /static/css/base.css HTTP/1.1" 200 8416
+[2022-05-12 14:39:47] INFO [django.server:179] "GET /static/css/newbase.css HTTP/1.1" 200 2789
+[2022-05-12 14:39:47] INFO [django.server:179] "GET /static/css/newbase.css HTTP/1.1" 200 2789
+[2022-05-12 14:39:47] INFO [django.server:179] "GET /static/css/searchbar.css HTTP/1.1" 200 937
+[2022-05-12 14:39:47] INFO [django.server:179] "GET /static/css/searchbar.css HTTP/1.1" 200 937
+[2022-05-12 14:39:47] INFO [django.server:179] "GET /static/images/sujeet.PNG HTTP/1.1" 200 74848
+[2022-05-12 14:39:47] INFO [django.server:179] "GET /static/images/sujeet.PNG HTTP/1.1" 200 74848
+[2022-05-12 14:39:47] INFO [django.server:179] "GET /static/images/parthik.PNG HTTP/1.1" 200 123379
+[2022-05-12 14:39:47] INFO [django.server:179] "GET /static/images/parthik.PNG HTTP/1.1" 200 123379
+[2022-05-12 14:39:47] INFO [django.server:179] "GET /static/images/anubhav.PNG HTTP/1.1" 200 147588
+[2022-05-12 14:39:47] INFO [django.server:179] "GET /static/images/anubhav.PNG HTTP/1.1" 200 147588
+[2022-05-12 14:39:47] INFO [django.server:179] "GET /static/images/teacher.PNG HTTP/1.1" 200 804128
+[2022-05-12 14:39:47] INFO [django.server:179] "GET /static/images/teacher.PNG HTTP/1.1" 200 804128
+[2022-05-12 14:39:47] INFO [django.server:179] "GET /static/images/homeimg.PNG HTTP/1.1" 200 696955
+[2022-05-12 14:39:47] INFO [django.server:179] "GET /static/images/homeimg.PNG HTTP/1.1" 200 696955
+[2022-05-12 14:39:47] INFO [django.server:179] "GET /static/images/first.PNG HTTP/1.1" 200 632699
+[2022-05-12 14:39:47] INFO [django.server:179] "GET /static/images/first.PNG HTTP/1.1" 200 632699
+[2022-05-12 14:39:47] WARNING [django.request:225] Not Found: /favicon.ico
+[2022-05-12 14:39:47] WARNING [django.request:225] Not Found: /favicon.ico
+[2022-05-12 14:39:51] INFO [classroom.views:89] Signup requested
+[2022-05-12 14:39:51] INFO [django.server:179] "GET /classroom/signup/ HTTP/1.1" 200 3042
+[2022-05-12 14:39:51] INFO [django.server:179] "GET /classroom/signup/ HTTP/1.1" 200 3042
+[2022-05-12 14:39:51] INFO [django.server:179] "GET /static/images/login-background.PNG HTTP/1.1" 200 493768
+[2022-05-12 14:39:51] INFO [django.server:179] "GET /static/images/login-background.PNG HTTP/1.1" 200 493768
+[2022-05-12 14:39:51] WARNING [django.request:225] Not Found: /favicon.ico
+[2022-05-12 14:39:51] WARNING [django.request:225] Not Found: /favicon.ico
+[2022-05-12 14:40:28] INFO [classroom.views:27] Teacher sign up accessed!
+[2022-05-12 14:40:28] INFO [classroom.views:51] Teacher form was rendered.
+[2022-05-12 14:40:28] INFO [django.server:179] "GET /classroom/signup/teacher_signup/ HTTP/1.1" 200 4811
+[2022-05-12 14:40:28] INFO [django.server:179] "GET /classroom/signup/teacher_signup/ HTTP/1.1" 200 4811
+[2022-05-12 14:40:59] INFO [classroom.views:27] Teacher sign up accessed!
+[2022-05-12 14:40:59] INFO [classroom.views:42] Teacher sign up successfull
+[2022-05-12 14:40:59] INFO [classroom.views:51] Teacher form was rendered.
+[2022-05-12 14:40:59] INFO [django.server:179] "POST /classroom/signup/teacher_signup/ HTTP/1.1" 200 2899
+[2022-05-12 14:40:59] INFO [django.server:179] "POST /classroom/signup/teacher_signup/ HTTP/1.1" 200 2899
+[2022-05-12 14:41:06] INFO [classroom.views:118] User login redirecting to login
+[2022-05-12 14:41:06] INFO [django.server:179] "GET /classroom/login/ HTTP/1.1" 200 3524
+[2022-05-12 14:41:06] INFO [django.server:179] "GET /classroom/login/ HTTP/1.1" 200 3524
+[2022-05-12 14:41:06] INFO [django.server:179] "GET /static/images/login-avatar.PNG HTTP/1.1" 200 8512
+[2022-05-12 14:41:06] INFO [django.server:179] "GET /static/images/login-avatar.PNG HTTP/1.1" 200 8512
+[2022-05-12 14:41:18] INFO [classroom.views:95] User login accessed
+[2022-05-12 14:41:19] INFO [classroom.views:100] User being authenticated
+[2022-05-12 14:41:19] INFO [classroom.views:106] User login successfull
+[2022-05-12 14:41:19] INFO [django.server:179] "POST /classroom/login/ HTTP/1.1" 302 0
+[2022-05-12 14:41:19] INFO [django.server:179] "POST /classroom/login/ HTTP/1.1" 302 0
+[2022-05-12 14:41:19] INFO [django.server:179] "GET / HTTP/1.1" 200 7696
+[2022-05-12 14:41:19] INFO [django.server:179] "GET / HTTP/1.1" 200 7696
+[2022-05-12 14:41:19] INFO [django.server:179] "GET /static/images/anubhav.PNG HTTP/1.1" 304 0
+[2022-05-12 14:41:19] INFO [django.server:179] "GET /static/images/parthik.PNG HTTP/1.1" 304 0
+[2022-05-12 14:41:19] INFO [django.server:179] "GET /static/images/sujeet.PNG HTTP/1.1" 304 0
+[2022-05-12 14:41:19] INFO [django.server:179] "GET /static/images/anubhav.PNG HTTP/1.1" 304 0
+[2022-05-12 14:41:19] INFO [django.server:179] "GET /static/images/parthik.PNG HTTP/1.1" 304 0
+[2022-05-12 14:41:19] INFO [django.server:179] "GET /static/images/sujeet.PNG HTTP/1.1" 304 0
+[2022-05-12 14:41:24] INFO [classroom.views:355] Student not added by teacher in their class accessed
+[2022-05-12 14:41:24] INFO [classroom.views:371] Student not added by teacher in their class rendered
+[2022-05-12 14:41:24] INFO [django.server:179] "GET /classroom/students_list/ HTTP/1.1" 200 4178
+[2022-05-12 14:41:24] INFO [django.server:179] "GET /classroom/students_list/ HTTP/1.1" 200 4178
+[2022-05-12 14:41:24] INFO [django.server:179] "GET /static/images/list-background.PNG HTTP/1.1" 200 337340
+[2022-05-12 14:41:24] INFO [django.server:179] "GET /static/images/list-background.PNG HTTP/1.1" 200 337340
+[2022-05-12 14:41:31] INFO [classroom.views:400] Assignment uploader accessed
+[2022-05-12 14:41:31] INFO [classroom.views:412] error: Invalid assignment uploder form
+[2022-05-12 14:41:31] INFO [classroom.views:414] Assignment uploder rendered
+[2022-05-12 14:41:31] INFO [django.server:179] "GET /classroom/upload_assignment/ HTTP/1.1" 200 4126
+[2022-05-12 14:41:31] INFO [django.server:179] "GET /classroom/upload_assignment/ HTTP/1.1" 200 4126
+[2022-05-12 14:41:51] INFO [classroom.views:400] Assignment uploader accessed
+[2022-05-12 14:41:51] INFO [classroom.views:410] Assignmnet uploaded successfully
+[2022-05-12 14:41:51] INFO [classroom.views:414] Assignment uploder rendered
+[2022-05-12 14:41:51] INFO [django.server:179] "POST /classroom/upload_assignment/ HTTP/1.1" 200 3467
+[2022-05-12 14:41:51] INFO [django.server:179] "POST /classroom/upload_assignment/ HTTP/1.1" 200 3467
+[2022-05-12 14:41:56] INFO [classroom.views:431] Assignment list accessed
+[2022-05-12 14:41:56] INFO [classroom.views:432] All assignments uploaded by the teacher rendered
+[2022-05-12 14:41:56] INFO [django.server:179] "GET /classroom/assignment_list/ HTTP/1.1" 200 4225
+[2022-05-12 14:41:56] INFO [django.server:179] "GET /classroom/assignment_list/ HTTP/1.1" 200 4225
+[2022-05-12 14:43:00] INFO [django.server:179] "GET / HTTP/1.1" 200 7696
+[2022-05-12 14:43:00] INFO [django.server:179] "GET / HTTP/1.1" 200 7696
+[2022-05-12 14:43:00] INFO [django.server:179] "GET /static/images/anubhav.PNG HTTP/1.1" 304 0
+[2022-05-12 14:43:00] INFO [django.server:179] "GET /static/images/anubhav.PNG HTTP/1.1" 304 0
+[2022-05-12 14:43:00] INFO [django.server:179] "GET /static/images/sujeet.PNG HTTP/1.1" 304 0
+[2022-05-12 14:43:00] INFO [django.server:179] "GET /static/images/sujeet.PNG HTTP/1.1" 304 0
+[2022-05-12 14:43:00] INFO [django.server:179] "GET /static/images/parthik.PNG HTTP/1.1" 304 0
+[2022-05-12 14:43:00] INFO [django.server:179] "GET /static/images/parthik.PNG HTTP/1.1" 304 0
+[2022-05-12 14:43:11] INFO [django.server:179] "GET /classroom/teacher/1/ HTTP/1.1" 200 4557
+[2022-05-12 14:43:11] INFO [django.server:179] "GET /classroom/teacher/1/ HTTP/1.1" 200 4557
+[2022-05-12 14:43:11] INFO [django.server:179] "GET /static/images/profile-background-3.PNG HTTP/1.1" 200 256217
+[2022-05-12 14:43:11] INFO [django.server:179] "GET /static/images/profile-background-3.PNG HTTP/1.1" 200 256217
+[2022-05-12 14:43:23] INFO [django.server:179] "GET / HTTP/1.1" 200 7696
+[2022-05-12 14:43:23] INFO [django.server:179] "GET / HTTP/1.1" 200 7696
+[2022-05-12 14:43:28] INFO [classroom.views:306] Messege list rendered
+[2022-05-12 14:43:28] INFO [django.server:179] "GET /classroom/teacher/1/messages_list HTTP/1.1" 200 3456
+[2022-05-12 14:43:28] INFO [django.server:179] "GET /classroom/teacher/1/messages_list HTTP/1.1" 200 3456
+[2022-05-12 15:21:00] INFO [django.utils.autoreload:257] /home/deepak/Desktop/anubhav/classroom/views.py changed, reloading.
+[2022-05-12 15:21:00] INFO [django.utils.autoreload:257] /home/deepak/Desktop/anubhav/classroom/views.py changed, reloading.
+[2022-05-12 15:21:01] INFO [django.utils.autoreload:643] Watching for file changes with StatReloader
+[2022-05-12 15:21:01] INFO [django.utils.autoreload:643] Watching for file changes with StatReloader
+[2022-05-12 15:21:01] INFO [classroom.views:139] StudentDetailView accessed
+[2022-05-12 15:21:01] INFO [classroom.views:146] TeacherDetailView accessed
+[2022-05-12 15:29:06] INFO [django.utils.autoreload:643] Watching for file changes with StatReloader
+[2022-05-12 15:29:06] INFO [django.utils.autoreload:643] Watching for file changes with StatReloader
+[2022-05-12 15:29:06] INFO [classroom.views:139] StudentDetailView accessed
+[2022-05-12 15:29:06] INFO [classroom.views:146] TeacherDetailView accessed
+[2022-05-12 15:32:05] INFO [classroom.views:29] Teacher sign up accessed!
+[2022-05-12 15:32:05] INFO [classroom.views:53] Teacher form was rendered.
+[2022-05-12 15:32:05] INFO [django.server:179] "GET /classroom/signup/teacher_signup/ HTTP/1.1" 200 4811
+[2022-05-12 15:32:05] INFO [django.server:179] "GET /classroom/signup/teacher_signup/ HTTP/1.1" 200 4811
+[2022-05-12 15:37:31] INFO [classroom.views:29] Teacher sign up accessed!
+[2022-05-12 15:37:31] INFO [classroom.views:53] Teacher form was rendered.
+[2022-05-12 15:37:31] INFO [django.server:179] "GET /classroom/signup/teacher_signup/ HTTP/1.1" 200 4811
+[2022-05-12 15:37:31] INFO [django.server:179] "GET /classroom/signup/teacher_signup/ HTTP/1.1" 200 4811
+[2022-05-12 15:37:31] INFO [classroom.views:63] Student sign up accessed!
+[2022-05-12 15:37:31] INFO [classroom.views:88] Student form was rendered.
+[2022-05-12 15:37:31] INFO [django.server:179] "GET /classroom/signup/student_signup/ HTTP/1.1" 200 4682
+[2022-05-12 15:37:31] INFO [django.server:179] "GET /classroom/signup/student_signup/ HTTP/1.1" 200 4682
+[2022-05-12 15:37:38] INFO [classroom.views:29] Teacher sign up accessed!
+[2022-05-12 15:37:38] INFO [classroom.views:53] Teacher form was rendered.
+[2022-05-12 15:37:38] INFO [django.server:179] "GET /classroom/signup/teacher_signup/ HTTP/1.1" 200 4811
+[2022-05-12 15:37:38] INFO [django.server:179] "GET /classroom/signup/teacher_signup/ HTTP/1.1" 200 4811
+[2022-05-12 15:37:38] INFO [classroom.views:63] Student sign up accessed!
+[2022-05-12 15:37:38] INFO [classroom.views:88] Student form was rendered.
+[2022-05-12 15:37:38] INFO [django.server:179] "GET /classroom/signup/student_signup/ HTTP/1.1" 200 4682
+[2022-05-12 15:37:38] INFO [django.server:179] "GET /classroom/signup/student_signup/ HTTP/1.1" 200 4682
+[2022-05-12 15:37:38] ERROR [django.request:225] Internal Server Error: /classroom/students_list/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/dist-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/deepak/Desktop/anubhav/classroom/views.py", line 372, in students_list
+    students = StudentsInClass.objects.filter(teacher=request.user.Teacher)
+  File "/usr/local/lib/python3.8/dist-packages/django/utils/functional.py", line 249, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute 'Teacher'
+[2022-05-12 15:37:38] ERROR [django.request:225] Internal Server Error: /classroom/students_list/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/dist-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/deepak/Desktop/anubhav/classroom/views.py", line 372, in students_list
+    students = StudentsInClass.objects.filter(teacher=request.user.Teacher)
+  File "/usr/local/lib/python3.8/dist-packages/django/utils/functional.py", line 249, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute 'Teacher'
+[2022-05-12 15:37:38] ERROR [django.server:179] "GET /classroom/students_list/ HTTP/1.1" 500 68219
+[2022-05-12 15:37:38] ERROR [django.server:179] "GET /classroom/students_list/ HTTP/1.1" 500 68219
+[2022-05-12 15:37:51] INFO [classroom.views:375] Student not added by teacher in their class accessed
+[2022-05-12 15:37:51] INFO [classroom.views:391] Student not added by teacher in their class rendered
+[2022-05-12 15:37:51] INFO [django.server:179] "GET /classroom/students_list/ HTTP/1.1" 200 4178
+[2022-05-12 15:37:51] INFO [django.server:179] "GET /classroom/students_list/ HTTP/1.1" 200 4178
+[2022-05-12 15:37:52] INFO [django.server:179] "GET /static/css/base.css HTTP/1.1" 304 0
+[2022-05-12 15:37:52] INFO [django.server:179] "GET /static/css/base.css HTTP/1.1" 304 0
+[2022-05-12 15:37:52] INFO [django.server:179] "GET /static/css/searchbar.css HTTP/1.1" 304 0
+[2022-05-12 15:37:52] INFO [django.server:179] "GET /static/css/searchbar.css HTTP/1.1" 304 0
+[2022-05-12 15:37:52] INFO [django.server:179] "GET /static/css/newbase.css HTTP/1.1" 304 0
+[2022-05-12 15:37:52] INFO [django.server:179] "GET /static/css/newbase.css HTTP/1.1" 304 0
+[2022-05-12 15:37:52] INFO [django.server:179] "GET /static/images/list-background.PNG HTTP/1.1" 304 0
+[2022-05-12 15:37:52] INFO [django.server:179] "GET /static/images/list-background.PNG HTTP/1.1" 304 0
+[2022-05-12 15:38:03] INFO [classroom.views:29] Teacher sign up accessed!
+[2022-05-12 15:38:03] INFO [classroom.views:53] Teacher form was rendered.
+[2022-05-12 15:38:03] INFO [django.server:179] "GET /classroom/signup/teacher_signup/ HTTP/1.1" 200 4811
+[2022-05-12 15:38:03] INFO [django.server:179] "GET /classroom/signup/teacher_signup/ HTTP/1.1" 200 4811
+[2022-05-12 15:38:03] INFO [classroom.views:63] Student sign up accessed!
+[2022-05-12 15:38:03] INFO [classroom.views:88] Student form was rendered.
+[2022-05-12 15:38:03] INFO [django.server:179] "GET /classroom/signup/student_signup/ HTTP/1.1" 200 4682
+[2022-05-12 15:38:03] INFO [django.server:179] "GET /classroom/signup/student_signup/ HTTP/1.1" 200 4682
+[2022-05-12 15:38:04] ERROR [django.request:225] Internal Server Error: /classroom/students_list/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/dist-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/deepak/Desktop/anubhav/classroom/views.py", line 372, in students_list
+    students = StudentsInClass.objects.filter(teacher=request.user.Teacher)
+  File "/usr/local/lib/python3.8/dist-packages/django/utils/functional.py", line 249, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute 'Teacher'
+[2022-05-12 15:38:04] ERROR [django.request:225] Internal Server Error: /classroom/students_list/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/dist-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/deepak/Desktop/anubhav/classroom/views.py", line 372, in students_list
+    students = StudentsInClass.objects.filter(teacher=request.user.Teacher)
+  File "/usr/local/lib/python3.8/dist-packages/django/utils/functional.py", line 249, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute 'Teacher'
+[2022-05-12 15:38:04] ERROR [django.server:179] "GET /classroom/students_list/ HTTP/1.1" 500 68219
+[2022-05-12 15:38:04] ERROR [django.server:179] "GET /classroom/students_list/ HTTP/1.1" 500 68219
+[2022-05-12 15:38:04] INFO [classroom.views:398] Teacher list accessed
+[2022-05-12 15:38:04] INFO [classroom.views:408] All teachers rendered
+[2022-05-12 15:38:04] INFO [django.server:179] "GET /classroom/teachers_list/ HTTP/1.1" 200 4275
+[2022-05-12 15:38:04] INFO [django.server:179] "GET /classroom/teachers_list/ HTTP/1.1" 200 4275
