@@ -17,10 +17,5 @@ Class Manager contains more features like:
 11. User can add profile picture and edit their profile through edit profile.
 12. User can also change their password if necessary.
 
-## Screenshots
-### Home Page
 
-![classmanager](https://user-images.githubusercontent.com/59278577/85334196-73729680-b4f8-11ea-90b6-a42336e1d7dd.PNG)
-![classmanager-homepage](https://user-images.githubusercontent.com/59278577/85334362-c2203080-b4f8-11ea-973c-e9ff6b481810.PNG)
-![classmanager-homepage1](https://user-images.githubusercontent.com/59278577/85334481-f398fc00-b4f8-11ea-88fc-ba3371076930.PNG)
 
